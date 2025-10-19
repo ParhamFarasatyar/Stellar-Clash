@@ -19,9 +19,9 @@ Destroy alien ships 💥, rack up points 🌟, and survive as long as you can in
 
 ### 🧰 Requirements
 Make sure you have Python 3.8+ installed, then install:
-`bash
+```bash
 pip install pygame
-
+```
 ---
 
 🏁 How to Run
