@@ -1,7 +1,7 @@
-# 🚀 Space Blaster
+# 🚀 Stellar Clash
 
 ### 🕹️ About the Game  
-Space Blaster is an endless arcade-style space shooter built with Python and Pygame.  
+Stellar Clash is an endless arcade-style space shooter built with Python and Pygame.  
 You control a powerful spaceship 🛸 with 3 lives, facing waves of enemy fleets that keep getting faster, stronger, and larger as you progress!  
 
 Destroy alien ships 💥, rack up points 🌟, and survive as long as you can in this intense, fast-paced universe!
@@ -45,6 +45,6 @@ Feel free to open an issue or send me a pull request — I’d love your feedbac
 
 ---
 
-> 🚀 “Blast. Survive. Repeat.”
+> 🚀 “Clash. Survive. Repeat.”
 
 ---
