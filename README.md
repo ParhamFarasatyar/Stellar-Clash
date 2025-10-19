@@ -23,9 +23,9 @@ Make sure you have Python 3.8+ installed, then install:
 pip install pygame
 ```
 ---
-
+```bash
 🏁 How to Run
-
+```
 python stellar_clash.py
 
 ---
